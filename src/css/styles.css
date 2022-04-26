@@ -19,7 +19,9 @@ body {
 
 #showMe {
     background-color: rgb(171, 154, 188);
-    height: 200px;
+    height: 45px;
+    width: 200px;
+    color: yellow;
 
 }
 
@@ -27,6 +29,10 @@ body {
     background-color: rgb(192, 126, 126);
     padding: 10px;
     font-weight: 500;
+    color: aliceblue;
+    font-style: oblique;
+    font-size: larger;
+
 }
 
 footer {
