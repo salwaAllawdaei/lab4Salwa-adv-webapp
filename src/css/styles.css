@@ -15,3 +15,18 @@ body {
     flex-wrap: wrap;
 
 }
+
+#showMe {
+    background-color: rgb(171, 154, 188);
+
+}
+
+#showMe:hover {
+    background-color: rgb(192, 126, 126);
+    padding: 10px;
+    font-weight: 500;
+}
+
+footer {
+    background-color: rgb(171, 154, 188);
+}
